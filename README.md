@@ -14,9 +14,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently employing spatial analysis methods in public health research.
-- 🌱 I’m learning about collaborating on GitHub, and Machine Learning. 
+- 🌱 I’m learning about collaborating on GitHub, Remote Sensing and Machine Learning. 
 - 👯 I’m looking to collaborate on projects related to public health, education, mapping, and statistics.
-- 🤔 I’m looking for help with improving my R code. 
+- 🤔 I’m looking for help implementing best practices for reproducible research. 
 - 💬 Ask me about teaching GIS to MPH students in Philly. 
 - 📫 How to reach me: Twitter or LinkedIn 
 - 😄 Pronouns: she/her
